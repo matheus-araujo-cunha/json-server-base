@@ -8,5 +8,90 @@
       "id": 1
     }
   ],
-  "cars": []
+  "cars": [
+    {
+      "name": "C3",
+      "model": "Citroen",
+      "description": "automatico, flex",
+      "year": "2006",
+      "km": "85000",
+      "id": 2,
+      "url_img": "http://dealers.rewebmkt.com/images/20201016030040-branco-removebg-preview.png",
+      "pending": false,
+      "available": true,
+      "userId": "1"
+    },
+    {
+      "name": "Tiggo 5x",
+      "model": "Chery",
+      "description": "automatico, flex",
+      "year": "2021",
+      "km": "5000",
+      "id": 3,
+      "url_img": "https://quatrorodas.abril.com.br/wp-content/uploads/2018/12/chery-tiggo-5x-brasil-1.jpg?quality=70&strip=info",
+      "pending": false,
+      "available": true,
+      "userId": "2"
+    },
+    {
+      "name": "HB20",
+      "model": "Hyudai",
+      "description": "automatico, flex",
+      "year": "20",
+      "km": "7500",
+      "id": 4,
+      "url_img": "https://t.ctcdn.com.br/L2Ep6ZDq_PzkelTCQ1qEOVdLSjs=/98x158:1897x1170/512x288/smart/i371884.jpeg",
+      "pending": false,
+      "available": true,
+      "userId": "3"
+    },
+    {
+      "name": "Palio",
+      "model": "iat",
+      "description": "manual, flex",
+      "year": "20",
+      "km": "150000",
+      "id": 5,
+      "url_img": "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg",
+      "pending": false,
+      "available": true,
+      "userId": "2"
+    },
+    {
+      "name": "Renegade",
+      "model": "“Jeep",
+      "description": "automatico, dise",
+      "year": "2020",
+      "km": "33500",
+      "id": 6,
+      "url_img": "https://upload.wikimedia.org/wikipedia/commons/7/73/2019_Jeep_Renegade_1.6_Multijet.jpg",
+      "pending": false,
+      "available": true,
+      "userId": "1"
+    },
+    {
+      "name": "Fia",
+      "model": "Citroen",
+      "description": "automatico, gasoin",
+      "year": "2017",
+      "km": "55000",
+      "id": 7,
+      "url_img": "https://image.webmotors.com.br/_fotos/AnuncioUsados/gigante/2022/202201/20220113/FORD-FIESTA-1.0-ROCAM-HATCH-8V-FLEX-4P-MANUAL-wmimagem08493264439.jpg",
+      "pending": false,
+      "available": true,
+      "userId": "1"
+    },
+    {
+      "name": "City",
+      "model": "Honda",
+      "description": "automatico, flex",
+      "year": "20",
+      "km": "64000",
+      "id": 8,
+      "url_img": "https://s2.glbimg.com/j1H5FwGG0nxMGYULdpB28mkjvW4=/696x390/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/R/L/9azyyXR3aDG5CWqYSQ3g/2018-02-26-city.jpg",
+      "pending": false,
+      "available": true,
+      "userId": "1"
+    }
+  ]
 }
